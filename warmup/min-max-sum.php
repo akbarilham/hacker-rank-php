@@ -1,4 +1,8 @@
 <?php
+/*
+  Author : Akbar Ilham
+  Lang   : PHP
+*/
 $open = fopen("php://stdin", "r");
 /* Enter your code here. Read input from STDIN. Print output to STDOUT */
 $k = fgets($open);
